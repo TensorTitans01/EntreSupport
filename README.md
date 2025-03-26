@@ -156,9 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Firecrawl for web scraping
 - All contributors and supporters
 
-## 📧 Contact
 
-For any queries or support, please reach out to us at [your-email@example.com]
 
 ---
 
